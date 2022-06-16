@@ -1,4 +1,4 @@
-# <div align="center"> Olá!! Eu sou a Dani Domingues!!!  <a href="https://imgbb.com/"><img src="https://i.ibb.co/XW9cjf2/imagem-2022-06-16-192438679-removebg-preview.png" alt="imagem-2022-06-16-192438679-removebg-preview" border="0"  img align="right" alt="Dani-octocat" height="180" style="border-radius:50px;"> </a>
+# <div align="center"> Olá!! Eu sou a Dani Domingues!!!  <a href="https://imgbb.com/"><img src="https://i.ibb.co/XW9cjf2/imagem-2022-06-16-192438679-removebg-preview.png" alt="imagem-2022-06-16-192438679-removebg-preview" border="0"  img align="right" alt="Dani-octocat" height="250" style="border-radius:50px;"> </a>
 
 • 🌱 Hoje em dia eu trabalho como full stack
 
@@ -6,7 +6,8 @@
 
 • 🍀 Estudando Java/HTML/CSS/JavaScript
  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dani-domingues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+ <div>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=dani-domingues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani-domingues&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
