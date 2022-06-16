@@ -1,4 +1,4 @@
-# <div align="center"> Olá!! Eu sou a Dani Domingues!!!  <a href="https://imgbb.com/"><img src="https://i.ibb.co/XW9cjf2/imagem-2022-06-16-192438679-removebg-preview.png" alt="imagem-2022-06-16-192438679-removebg-preview" border="0"  img align="right" alt="Dani-octocat" height="230" style="border-radius:50px;"> </a>
+# <div align="center"> Olá!! Eu sou a Dani Domingues!!!  
 
 • 🌱 Hoje em dia eu trabalho como full stack
 
@@ -17,7 +17,7 @@
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/XW9cjf2/imagem-2022-06-16-192438679-removebg-preview.png" alt="imagem-2022-06-16-192438679-removebg-preview" border="0"  img align="right" alt="Dani-octocat" height="230" style="border-radius:50px;"> </a>
 
 </div><br>
   
