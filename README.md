@@ -1,4 +1,4 @@
-# <div align="center"> Olá!! Eu sou a Dani Domingues!!!  <a href="https://imgbb.com/"><img src="https://i.ibb.co/XW9cjf2/imagem-2022-06-16-192438679-removebg-preview.png" alt="imagem-2022-06-16-192438679-removebg-preview" border="0"  img align="right" alt="Dani-octocat" height="200" style="border-radius:50px;"> </a>
+# <div align="center"> Olá!! Eu sou a Dani Domingues!!!  <a href="https://imgbb.com/"><img src="https://i.ibb.co/XW9cjf2/imagem-2022-06-16-192438679-removebg-preview.png" alt="imagem-2022-06-16-192438679-removebg-preview" border="0"  img align="right" alt="Dani-octocat" height="180" style="border-radius:50px;"> </a>
 
 • 🌱 Hoje em dia eu trabalho como full stack
 
