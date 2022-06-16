@@ -1,11 +1,7 @@
-# <div align="center"> Olá!! Eu sou a Dani Domingues!!!  
+# <div align="center"> Olá! Eu sou a Dani Domingues! 
 
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/XW9cjf2/imagem-2022-06-16-192438679-removebg-preview.png" alt="imagem-2022-06-16-192438679-removebg-preview" border="0"  img align="right" alt="Dani-octocat" height="230" style="border-radius:50px;"> </a>
-• 🌱 Hoje em dia eu trabalho como full stack
+ 
 
-• ⚙  Estudante de engenharia da computação
-
-• 🍀 Estudando Java/HTML/CSS/JavaScript
  <br>
  <div>
   
@@ -13,7 +9,12 @@
 </div>
  
 ##
- 
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/XW9cjf2/imagem-2022-06-16-192438679-removebg-preview.png" alt="imagem-2022-06-16-192438679-removebg-preview" border="0"  img align="right" alt="Dani-octocat" height="230" style="border-radius:50px;"> </a>
+ • 🌱 Hoje em dia eu trabalho como dev full stack
+
+• ⚙  Estudante de engenharia da computação
+
+• 🍀 Estudando Java/HTML/CSS/JavaScript
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Dani-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
