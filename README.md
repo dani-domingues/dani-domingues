@@ -36,7 +36,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani-domingues&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div><br>
-  
+
+##
+
 <div>
   <a href="https://imgbb.com/">
     <img src="https://i.ibb.co/7khrRcS/ibmhacktoberfest2024.png" alt="ibmhacktoberfest2024" border="0" width="250" height="200">
